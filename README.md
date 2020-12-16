@@ -41,7 +41,7 @@ I’m a software developer that is primarily focussed on iOS development for now
 ![Lightroom](https://img.shields.io/badge/-lightroom-05122A?style=flat&logo=adobe-lightroom)
 
 ### Fun Trivia Facts
-- 💬 Can speak Dutch, English, Cantonese and some Mandarin
+* 💬 Can speak Dutch, English, Cantonese and some Mandarin
 * 🎮 Like esports primarily CS:GO and League of Legends
 * 🎵 Like to listen to music especially Hip-Hop
 * 🏡 Primarily lived in the Netherlands but also Hong Kong
