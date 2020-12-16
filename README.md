@@ -5,12 +5,12 @@
 <p align="center">
   <a href="https://twitter.com/intent/follow?screen_name=hoyelam&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/hoyelam?label=%40hoyelam&style=social"></a>  •
   <a href="https://hoyelam.icom">Blog</a> •
-  <a href="https://twitter.com/intent/follow?screen_name=hoyelam&tw_p=followbutton">Twitter</a> •
+  <a href="https://twitter.com/intent/follow?screen_name=hoyelam&tw_p=followbutton">Twitter</a>
 </p>
 
 ---
 
-<!— ## 👋 Hey there! I’m Hoye Lam —>
+## 👋 Hey there! I’m Hoye Lam 
 
 ### 👨🏻‍💻 About Me
 I’m a software developer that is primarily focussed on iOS development for now. I’ve worked for several companies/startups like Somnox (world’s first sleep robot) and write a [daily-ish blog](https://hoyelam.com). I’ve also launched four side-products during my full-time work with the most recent one Growrilla - the app to count anything and everything.
