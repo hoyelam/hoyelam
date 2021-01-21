@@ -15,8 +15,8 @@
 ### 👨🏻‍💻 About Me
 I’m a software developer that is primarily focussed on iOS development for now. I’ve worked for several companies/startups like Somnox (world’s first sleep robot) and write a [daily-ish blog](https://hoyelam.com). I’ve also launched four side-products during my full-time work with the most recent one Growrilla - the app to count anything and everything.
 
-- ⚙️ 4+ years of experience in professional software engineering.
-- 📱 4+ years of experience in iOS development.
+- ⚙️ 5+ years of experience in professional software engineering.
+- 📱 5+ years of experience in iOS development.
 - 👔 1 year of experience in leading/managing teams and projects
 - 📡 1 year of experience in back-end development.
 - 🤖 1 year of experience in Android development.
