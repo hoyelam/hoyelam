@@ -13,9 +13,9 @@
 ## 👋 Hey there! I’m Hoye Lam 
 
 ### 👨🏻‍💻 About Me
-I’m a software developer that is primarily focussed on iOS development for now. I’ve worked for several companies/startups like Somnox (world’s first sleep robot) and write a [daily-ish blog](https://hoyelam.com). I’ve also launched four side-products during my full-time work with the most recent one Growrilla - the app to count anything and everything.
+I’m a software developer that is primarily focused on iOS development for now. I’ve worked for several companies/startups like Somnox (the world’s first sleep robot) and am writing a [daily-ish blog](https://hoyelam.com). I’ve also launched a few personal products during my full-time work with the most recent one Growrilla - the app to count anything and everything.
 
-- ⚙️ 5+ years of experience in professional software engineering.
+- ⚙️ 6+ years of experience in professional software engineering.
 - 📱 5+ years of experience in iOS development.
 - 👔 1 year of experience in leading/managing teams and projects
 - 📡 1 year of experience in back-end development.
@@ -41,14 +41,14 @@ I’m a software developer that is primarily focussed on iOS development for now
 ![Lightroom](https://img.shields.io/badge/-lightroom-05122A?style=flat&logo=adobe-lightroom)
 
 ### Fun Trivia Facts
-* 💬 Can speak Dutch, English, Cantonese and some Mandarin
+* 💬 Can speak Dutch, English, Cantonese, and some Mandarin
 * 🎮 Like esports primarily CS:GO and League of Legends
-* 🎵 Like to listen to music especially Hip-Hop
+* 🎵 Like to listen to music, especially Hip-Hop
 * 🏡 Primarily lived in the Netherlands but also Hong Kong
-* ✈️ Travelled to U.S., China (Shenzhen), Hong Kong, Korea, Thailand, Malaysia, Iceland, Belgium, France, Germany, U.K., and Italy
+* ✈️ Travelled to the U.S., China (Shenzhen), Hong Kong, Korea, Thailand, Malaysia, Iceland, Belgium, France, Germany, U.K., Slovenia, Portugal and Italy
 * 🦁 Performed in seven different Chinese New Year events during 2019 and 2020 for lion- and dragon dances
 * 💻 Started learning iOS development on a (very bad) Windows Laptop using Virtual Machine
 * 🎮 Played League of Legends semi-professionally in 2013-2014 (Diamond 1, 80~ lp)
 * 🔫 Played Overwatch semi-professionally in 2018 (Overwatch Open Division)
 * 🧨 Operate a small gaming community called Insanctuary
-* 🥋 Practiced Karate till 14 years old
+* 🥋 Practiced Karate till 15 years old
