@@ -17,9 +17,9 @@ I’m a software developer that is primarily focused on iOS development for now.
 
 - ⚙️ 6+ years of experience in professional software engineering.
 - 📱 5+ years of experience in iOS development.
+- 🤖 2+ year of experience in Android development.
 - 👔 1 year of experience in leading/managing teams and projects
 - 📡 1 year of experience in back-end development.
-- 🤖 1 year of experience in Android development.
 - 🏔️ Experience in industries: Sleep Tech, Healthcare, Education, Catering
 - 💬 Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 - ✉️ You can shoot me an email at hoyelam@pm.me! I’ll try to respond as soon as I can.
