@@ -13,7 +13,7 @@
 ## 👋 Hey there! I’m Hoye Lam 
 
 ### 👨🏻‍💻 About Me
-I’m a software developer that is primarily focused on iOS development for now. I’ve worked for several companies/startups like Somnox (the world’s first sleep robot) and am writing a [blog](https://hoyelam.com). I’ve also launched a few personal products during my full-time work with the most recent two Thinkdrop 2 and Growrilla.
+I’m a software developer that is primarily focused on iOS development for now. I’m currently working at @DeepLCom, and before at several companies/startups like Somnox (the world’s first sleep robot). I’ve also launched a few personal products during my full-time work with the most recent two Thinkdrop 2 and Growrilla.
 
 - ⚙️ 6+ years of experience in professional software engineering.
 - 📱 5+ years of experience in iOS development.
