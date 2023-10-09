@@ -12,7 +12,7 @@
 ## 👋 Hey there! I’m Hoye Lam 
 
 ### 👨🏻‍💻 About Me
-I’m a software developer that is primarily focused on iOS development for now. I’m currently working at @DeepLCom, and before at several companies/startups like Somnox (the world’s first sleep robot). I’ve also launched a few personal products during my full-time work with the most recent two Thinkdrop 2 and Growrilla.
+I'm a software developer, currently focusing on iOS development. I'm currently working at @DeepLCom, and before that at several companies/startups like Somnox (the world's first sleep robot). I've also launched a few personal products while working full-time, the last three being Esportsfort, Thinkdrop 2, and Growrilla.
 
 - ⚙️ 6+ years of experience in professional software engineering.
 - 📱 5+ years of experience in iOS development.
@@ -20,8 +20,8 @@ I’m a software developer that is primarily focused on iOS development for now.
 - 👔 1 year of experience in leading/managing teams and projects
 - 📡 1 year of experience in back-end development.
 - 🏔️ Experience in industries: Sleep Tech, Healthcare, Education, Catering
-- 💬 Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
-- ✉️ You can shoot me an email at hoyelam@pm.me! I’ll try to respond as soon as I can.
+- 💬 Feel free to contact me for pro bono consulting and volunteer work or an interesting conversation.
+- ✉️ You can email me at hoyelam@pm.me! I'll try to get back to you as soon as I can, and be sure to mention that you found me on GitHub.
 - 📄 Have a look at my [portfolio](https://hoyelam.com/portfolio/) for more projects I’ve done. I’m open to feedback and suggestions!
 
 ### 🛠 Tech Stack
@@ -44,10 +44,9 @@ I’m a software developer that is primarily focused on iOS development for now.
 * 🎮 Like esports primarily CS:GO and League of Legends
 * 🎵 Like to listen to music, especially Hip-Hop
 * 🏡 Primarily lived in the Netherlands but also Hong Kong
-* ✈️ Travelled to the U.S., China (Shenzhen), Hong Kong, Korea, Thailand, Malaysia, Iceland, Belgium, France, Germany, U.K., Slovenia, Portugal and Italy
-* 🦁 Performed in seven different Chinese New Year events during 2019 and 2020 for lion- and dragon dances
+* ✈️ Travelled to the U.S., China (Shenzhen), Hong Kong, Korea, Thailand, Malaysia, Iceland, Belgium, France, Germany, U.K., Slovenia, Portugal, Spain and Italy
+* 🦁 Occasionally performs lion- and dragon dances around 5~ times a year.
 * 💻 Started learning iOS development on a (very bad) Windows Laptop using Virtual Machine
 * 🎮 Played League of Legends semi-professionally in 2013-2014 (Diamond 1, 80~ lp)
 * 🔫 Played Overwatch semi-professionally in 2018 (Overwatch Open Division)
-* 🧨 Operate a small gaming community called Insanctuary
-* 🥋 Practiced Karate till 15 years old
+* 🥋 Practiced Karate till 16 years old
