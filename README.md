@@ -14,9 +14,9 @@
 ### 👨🏻‍💻 About Me
 I'm a software developer, currently focusing on iOS development. I'm currently working at @DeepLCom, and before that at several companies/startups like Somnox (the world's first sleep robot). I've also launched a few personal products while working full-time, the last three being Esportsfort, Thinkdrop 2, and Growrilla.
 
-- ⚙️ 6+ years of experience in professional software engineering.
-- 📱 5+ years of experience in iOS development.
-- 🤖 2+ year of experience in Android development.
+- ⚙️ 8+ years of experience in professional software engineering.
+- 📱 6+ years of experience in iOS development.
+- 🤖 2+ years of experience in Android development.
 - 👔 1 year of experience in leading/managing teams and projects
 - 📡 1 year of experience in back-end development.
 - 🏔️ Experience in industries: Sleep Tech, Healthcare, Education, Catering
@@ -41,7 +41,7 @@ I'm a software developer, currently focusing on iOS development. I'm currently w
 
 ### Fun Trivia Facts
 * 💬 Can speak Dutch, English, Cantonese, and some Mandarin
-* 🎮 Like esports primarily CS:GO and League of Legends
+* 🎮 Like esports primarily CS and League of Legends
 * 🎵 Like to listen to music, especially Hip-Hop
 * 🏡 Primarily lived in the Netherlands but also Hong Kong
 * ✈️ Travelled to the U.S., China (Shenzhen), Hong Kong, Korea, Thailand, Malaysia, Iceland, Belgium, France, Germany, U.K., Slovenia, Portugal, Spain and Italy
